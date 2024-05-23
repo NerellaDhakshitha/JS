@@ -1,3 +1,4 @@
 # JS
-This is Java script 
-jS is Dynamically typed language.
+This is Java script .
+</br>
+JS is Dynamically typed language.
